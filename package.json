@@ -1,0 +1,8 @@
+{
+  "name": "com.cyg.unity",
+  "version": "0.2.0",
+  "displayName": "CYG Unity SDK",
+  "description": "Server-authoritative multiplayer client for CYG servers — matchmake, raw-UDP transport, state deltas, movement input lane.",
+  "unity": "2022.3",
+  "license": "Apache-2.0"
+}
